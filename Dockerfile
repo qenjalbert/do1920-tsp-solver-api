@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:10
 LABEL maintainer="Pablo FM <pafmon@gmail.com>"
 
 RUN mkdir -p /opt/app
