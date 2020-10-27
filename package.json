@@ -22,6 +22,6 @@
     "node-tspsolver": "^1.0.1",
     "oas-tools": "^2.1.4",
     "os-utils": "0.0.14",
-    "systeminformation": "^4.0.15"
+    "systeminformation": "^4.27.11"
   }
 }
