@@ -17,7 +17,7 @@
   "private": true,
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "js-yaml": "^3.3.0",
     "node-tspsolver": "^1.0.1",
     "oas-tools": "^2.1.4",
