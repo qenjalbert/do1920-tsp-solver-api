@@ -20,7 +20,7 @@
     "express": "^4.16.3",
     "js-yaml": "^3.3.0",
     "node-tspsolver": "^1.0.1",
-    "oas-tools": "^2.1.4",
+    "oas-tools": "^3.0.0",
     "os-utils": "0.0.14",
     "systeminformation": "^4.0.15"
   }
